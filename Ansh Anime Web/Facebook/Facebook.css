@@ -1,0 +1,129 @@
+body
+{
+    background-color: gainsboro;
+}
+#Form
+{
+    position: relative;
+    width: 450px;
+    height: 560px;
+    background-color:white;
+    align-items: center;
+    margin-left: 440px;
+    margin-right: 440px;
+    margin-top: 50px;
+    border: 10px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    border-radius: 5px ; 
+    font-family:Arial, Helvetica, sans-serif;
+}
+.title 
+{
+    color:rgb(41, 107, 230);
+    font-size: 2.5em;
+    text-align: center;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Heading
+{
+    text-align: center;
+    font-size: 26px;
+    padding-top: 15px;
+    font-weight: 600;
+    display: block;
+}
+.hding
+{
+    text-align: center;
+    padding-top: 6px;
+    padding-bottom: 5px;
+}
+form
+{
+    margin:auto 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Fname
+{
+    font-family: inherit;
+    font-size: 15px;
+    height: 2.5em;
+    width: 13.3em;
+    border-radius: 5px;
+}
+#Lname
+{
+    font-family: inherit;
+    font-size: 15px;
+    height: 2.5em;
+    border-radius: 5px;
+    width: 13.3em;
+}
+#Email
+{
+    font-family: inherit;
+    font-size: 15px;
+    height: 2.5em;
+    border-radius: 5px;
+    width:27.5em;
+}
+#Pwd
+{
+    font-family: inherit;
+    font-size: 15px;
+    height: 2.5em;
+    width:27.5em;
+    border-radius: 5px;
+}
+#Age
+{
+    font-family: inherit;
+    font-size: 16px;
+}
+.End
+{
+    background-color: white;
+    width: 84em;
+    height: 180px;
+}
+.Submit
+{
+    text-align: center;
+}
+.Name
+{
+    text-align: center;
+}
+.Email
+{
+    text-align: center;
+}
+.Pwd
+{
+    text-align: center;
+}
+.lm
+{
+    font-size: 12px;
+}
+.pp
+{
+    font-size: 12px;
+}
+.acc
+{
+    font-size: 17px;
+    text-align: center;
+}
+#btn
+{
+    height: 40px;
+    width: 200px;
+    border-radius: 8;
+    font-size: 1em;
+    background-color: rgb(54, 187, 6);
+    color: white;
+    font-weight: 600;
+    border: none;
+}
